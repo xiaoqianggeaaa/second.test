@@ -1,0 +1,24 @@
+{
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "name": "src",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "_gulp-sass@3.1.0@gulp-sass": "^3.1.0",
+    "_gulp-util@3.0.8@gulp-util": "^3.0.8",
+    "_gulp@3.9.1@gulp": "^3.9.1",
+    "_gulplog@1.0.0@gulplog": "^1.0.0",
+    "gulp-uglify": "^3.0.0",
+    "gulp-util": "^3.0.8"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": 
